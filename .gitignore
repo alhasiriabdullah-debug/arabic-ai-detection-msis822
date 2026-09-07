@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+.env.*
+
+data/raw/*
+!data/raw/.gitkeep
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/external/*
+!data/external/.gitkeep
+
+models/*
+!models/.gitkeep
